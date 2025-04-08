@@ -6,44 +6,44 @@ Express
 
 A robust and secure user management system API built with Node.js, Express, and MongoDB featuring:
 
-    ✨ Modern authentication with email/phone login
+✨ Modern authentication with email/phone login
 
-    🔐 Password encryption using bcrypt
+🔐 Password encryption using bcrypt
 
-    📱 Phone number validation
+📱 Phone number validation
 
-    📊 User details management
+📊 User details management
 
-    🚀 High performance MongoDB aggregation
+🚀 High performance MongoDB aggregation
 
 🌟 Key Features
 📌 Authentication System
 
-    Dual login with email or phone number
+Dual login with email or phone number
 
-    Secure password hashing with bcrypt
+Secure password hashing with bcrypt
 
-    JWT token support (optional)
+JWT token support (optional)
 
 👤 User Management
 
-    Complete CRUD operations
+Complete CRUD operations
 
-    Profile details management
+   -> Profile details management
 
-    Data validation
+   -> Data validation
 
-    Password recovery (ready to implement)
+   -> Password recovery (ready to implement)
 
 ⚡ Technical Highlights
 
-    MongoDB aggregation pipelines
+  - MongoDB aggregation pipelines
 
-    Clean architecture
+  - Clean architecture
 
-    Error handling middleware
+  -  Error handling middleware
 
-    RESTful API design
+  -  RESTful API design
 
 🛠️ Installation
 bash
@@ -115,26 +115,15 @@ erDiagram
 
 🧰 Tech Stack
 
-    Backend: Node.js, Express
+  Backend: Node.js, Express
 
-    Database: MongoDB
+  Database: MongoDB
 
-    Security: bcrypt.js
+  Security: bcrypt.js
 
-    Validation: Mongoose validators
+  Validation: Mongoose validators
 
-    API Testing: Postman/Insomnia
+  API Testing: Postman
 
-🤝 Contributing
 
-We welcome contributions! Please follow these steps:
 
-    Fork the project
-
-    Create your feature branch (git checkout -b feature/AmazingFeature)
-
-    Commit your changes (git commit -m 'Add some amazing feature')
-
-    Push to the branch (git push origin feature/AmazingFeature)
-
-    Open a Pull Request
